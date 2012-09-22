@@ -2,11 +2,26 @@
 <html>
 <head>
   <title>Resumelink</title>
-  <%= stylesheet_link_tag    "application", :media => "all" %>
+  <%= stylesheet_link_tag  "application", :media => "all" %>
   <%= javascript_include_tag "application" %>
   <%= csrf_meta_tags %>
+
+	<link rel="icon" href="http://resumelink.org/favicon.ico" />
+	<link rel="shortcut icon" href="http://resumelink.org/favicon.ico" />
+
 </head>
 <body>
+
+	
+	<div class="header">
+		<%= link_to image_tag(
+				"resumelink_logo_dark_transparent.png", 
+				:alt => "Resumelink - your resume online", 
+				:id => "logo"), 
+			root_url 
+		%>
+		
+	</div>
 
 <%= yield %>
 
