@@ -1,0 +1,14 @@
+C:\Users\Aaron\AppData\Local\Temporary Projects\DocumentConverter\bin\Release\DocumentConverter.exe
+C:\Users\Aaron\AppData\Local\Temporary Projects\DocumentConverter\bin\Release\DocumentConverter.pdb
+C:\Users\Aaron\AppData\Local\Temporary Projects\DocumentConverter\obj\x86\Release\DocumentConverter.exe
+C:\Users\Aaron\AppData\Local\Temporary Projects\DocumentConverter\obj\x86\Release\DocumentConverter.pdb
+C:\dev\Projects\resumelink\DocumentConverter\DocumentConverter\obj\x86\Release\DocumentConverter.exe
+C:\dev\Projects\resumelink\DocumentConverter\DocumentConverter\obj\x86\Release\DocumentConverter.pdb
+C:\dev\Projects\resumelink\DocumentConverter\DocumentConverter\bin\Release\DocumentConverter.exe
+C:\dev\Projects\resumelink\DocumentConverter\DocumentConverter\bin\Release\DocumentConverter.pdb
+C:\dev\projects\resumelink\DocumentConverter\DocumentConverter\obj\x86\Release\DocumentConverter.csprojResolveAssemblyReference.cache
+C:\dev\Projects\DocumentConverter\obj\x86\Release\DocumentConverter.exe
+C:\dev\Projects\DocumentConverter\obj\x86\Release\DocumentConverter.pdb
+C:\dev\Projects\DocumentConverter\bin\Release\DocumentConverter.exe
+C:\dev\Projects\DocumentConverter\bin\Release\DocumentConverter.pdb
+C:\dev\Projects\DocumentConverter\obj\x86\Release\DocumentConverter.csprojResolveAssemblyReference.cache
